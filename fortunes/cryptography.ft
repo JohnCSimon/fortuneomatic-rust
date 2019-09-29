@@ -1,0 +1,219 @@
+Linear improvements in compute power can't stand up to exponential
+improvements in difficulty.
+    -- Anonymous
+%
+When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl.
+    -- Anonymous
+%
+The law does not allow me to testify on any aspect of the National
+Security Agency, even to the Senate Intelligence Committee.
+    -- General Allen, Director of the NSA
+%
+For the computer security community, the moral is obvious: if you are
+designing a system whose functions include providing evidence, it had
+better be able to withstand hostile review.
+    -- Ross Anderson
+%
+The best system is to use a simple, well understood algorithm which
+relies on the security of a key rather than the algorithm itself. This
+means if anybody steals a key, you could just roll another and they
+have to start all over.
+    -- Andrew Carol
+%
+Feistel and Coppersmith rule. Sixteen rounds and one hell of an
+avalanche.
+    -- Stephan Eisvogel in de.comp.security
+%
+  When a cryptanalyst starts out trying to analyze a new algorithm,
+his first thought is probably: "Yikes. What a mess. I'll never make
+sense of this". So there are all sorts of tricks to help you start to
+probe into the convoluted innards of the cipher. One of these is to
+attack a weakened version. Later, he may be able to extend the attack
+to the full strength version; or, if this cannot be done, the reason
+why it can't at least gives some insight into the strengths and
+weaknesses of the cipher.
+  There is also a side benefit: the difference in strength made by
+even really subtle changes warns us just how tricky crypto can be...
+    -- R. Fleming in sci.crypt
+%
+Am I being overly harsh or do others think that the multi-thousand bit
+key is about sowing fear, uncertainty, and doubt for commercial gain?
+DES? Not big enough! Triple DES? Not big enough! IDEA? Not big enough!
+What you need is Dr. Phineas P. Snakeoil's mystery elixir! Filled with
+matrices and Galois fields to improve the digestion of dyspeptic
+managers everywhere! Step right up and get a whole case full! Don't
+ask what's inside ladies and gentlemen! It's a patent medicine that is
+only available here.
+    -- Stephen M. Gardner
+%
+The obvious mathematical breakthrough would be development of an easy
+way to factor large prime numbers.
+    -- Bill Gates, _The Road Ahead_, page 265
+%
+The NSA regularly lies to people who ask it for advice on export
+control. They have no reason not to; accomplishing their goal by any
+legal means is fine by them. Lying by government employees is legal.
+    -- John Gilmore
+%
+In cyberspace everyone will be anonymous for 15 minutes.
+    -- Graham Greenleaf
+%
+Few false ideas have more firmly gripped the minds of so many
+intelligent men than the one that, if they just tried, they could
+invent a cipher that no one could break.
+    -- David Kahn
+%
+The multiple human needs and desires that demand privacy among two or
+more people in the midst of social life must inevitably lead to
+cryptology wherever men thrive and wherever they write.
+    -- David Kahn, _The Codebreakers_
+%
+Cryptography, at least in its public embodiment, is finally, slowly,
+and painfully becoming a science. Part of that evolution is the
+dawning of an understanding of exactly what cryptographic guarantees
+mean, and how delicate they can be. I think it's safe to say that not
+a single *cryptographic* claim made in any paper published before, oh,
+1985 or so (perhaps even as late as 1990) could be fully justified
+today. (Of course, the better work was usually *almost* correct, but
+the theoretical underpinning was simply not there to even state the
+claims in a way that could be properly formalized.)
+    -- Jerry Leichter
+%
+BTW, I learned a lovely new acronym today: "Law Enforcement Agency
+Key" - LEAK.
+    -- Charles H. Lindsey
+%
+The notion that an anonymous posting needs to be traceable to its
+source is a product of the unification of the old time conservative
+desire to squelch free speech with the new fangled politically correct
+liberal desire to squelch free speech.
+    -- Perry E. Metzger
+%
+How long before we Americans are reduced to doing crypto with a deck
+of cards? (See Bruce Schneier's Solitaire).
+    -- Mordy Ovits
+%
+Note to amateur cryptographers: simple analysis is a *good* thing, if
+it doesn't weaken the cipher. ... It's better to be able to prove that
+an attack won't work than to have to guess that it won't because it's
+too much work.
+    -- Colin Plumb
+%
+The wire protocol guys don't worry about security because that's
+really a network protocol problem. The network protocol guys don't
+worry about it because, really, it's an application problem. The
+application guys don't worry about it because, after all, they can
+just use the IP address and trust the network.
+    -- Marcus J. Ranum
+%
+Due to the suspicious nature of crypto users I have a feeling DES will
+be with us forever, we will just keep adding keys and cycles... There
+is a parallel between designing electronic commerce infrastructure
+today that uses weak cryptography (i.e. 40 or 56 bit keys) and, say,
+designing air traffic control systems in the '60s using two digit year
+fields. ... Just because you can retire before it all blows up doesn't
+make it any less irresponsible.
+    -- Arnold G. Reinhold
+%
+In the design of cryptosystems, we must design something *now* for use
+in the future. We have only the published facts of the past to stand
+against all the secret research of the past and future for as long as
+a cipher is used. It is therefore necessary to speculate on future
+capabilities. It is *not* acceptable to wait for a published attack
+before a weakness is considered in cipher design. It is instead
+necessary to try to perceive weaknesses which have not yet contributed
+to full attacks, and close them off.
+    -- Terry Ritter
+%
+  Key escrow to rule them all; key escrow to find them.
+  Key escrow to bring them all and in the darkness bind them.
+  In the land of surveillance where Big Brother lies.
+    -- Peter Gutmann
+%
+  Mary had a little key (It's all she could export),
+  and all the email that she sent was opened at the Fort.
+    -- Ron Rivest
+%
+  Mary had a little key - she kept it in escrow,
+  and every thing that Mary said, the feds were sure to know.
+    -- Sam Simpson
+%
+The real work in an attack, at least an attack against a well-designed
+cipher, is modifying the attack technique so that it works. Knudsen's
+papers are an excellent example of this; he is a master at making an
+attack work where others have failed. Differentials work where
+characteristics don't. Truncated differentials work where normal
+differentials don't. Even this year's exciting find, impossible
+differentials, are simply another way at looking at a differential
+attack. A cryptanalyst with a "menu" would have never found any of
+those attacks, and would have broken far fewer ciphers.
+    -- Bruce Schneier
+%
+Crypto is not mathematics, but crypto can be highly mathematical,
+crypto can use mathematics, but good crypto can be done without a
+great reliance on complex mathematics.
+    -- W T Shaw
+%
+The NSA response was, "Well, that was interesting, but there aren't
+any ciphers like that."
+    -- Gus Simmons, "The History of Subliminal Channels"
+%
+Security, like correctness, is not an add-on feature.
+    -- Andrew S. Tanenbaum
+%
+Anyone who considers arithmetical methods of producing random digits
+is, of course, in a state of sin.
+    -- John Von Neumann
+%
+This method, seemingly very clever, actually played into our hands!
+And so it often happens that an apparently ingenious idea is in fact a
+weakness which the scientific cryptographer seizes on for his
+solution.
+    -- Herbert Yardley, in _The American Black Chamber_,
+       referring to a Japanese method of transposing the sections of a
+       code message to hide the beginning and end
+%
+Child pornography---I never heard of it as a problem five years ago,
+but now it's brought up constantly. I think it's the new Red-baiting.
+The people in Burma don't understand how it is that we are focusing
+our whole crypto policy on catching child pornographers. If you think
+that cryptography is good for society you have to apologize and say
+that you are against child pornography... The fact that I even have to
+say that is an indication of how effective this Red-baiting is... I
+think that we can't let our civil liberties for the society at large
+be determined by government policy towards a tiny segment of the
+criminal population.
+    -- Philip Zimmermann
+%
+I should be able to whisper something in your ear, even if your ear is
+1000 miles away, and the government disagrees with that. [GQ magazine
+in England] quoted me on that---they changed one letter. It said I
+should be able to whisper something in your *car*, even though I am
+1000 miles away. I wonder what the people in England think of me.
+    -- Philip Zimmermann
+%
+With PCs 1,000 times more powerful than they used to be, our
+encryption keys can and should be 1,000 times bigger too. That means
+cryptokeys of at least 56,000 bits.
+    -- Seen on developer.com
+%
+We didn't do this with just a pencil and some paper. Lots of our notes
+are in pen. We didn't need to erase much.
+    -- Tim Hollebeek and John Viega, on breaking defective crypto
+       in Netscape's mail password saver
+%
+  The point of academic attacks is not exhibiting practical breaks;
+the point is that only a trained cryptographer can tell whether a
+given algorithm is secure or not. The author of an algorithm says: "My
+cipher is secure, and trust me, I am an expert at this. And to prove
+that I am a real good expert, I challenge other experts to find even
+the most impractical, academic flaw in my cipher".
+  Just like glue. Commercial ads state that the foobar glue can stick
+an elephant to the ceiling. Who needs to stick an elephant to the
+ceiling? But if it can do that, people will trust its sticking
+strength.
+    -- Thomas Pornin, sci.crypt
+%
+If you think cryptography is the answer to your problem, then you
+don't know what your problem is.
+    -- Peter G. Neumann, quoted in the _New York Times_

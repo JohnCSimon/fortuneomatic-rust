@@ -1,7 +1,8 @@
 use std::path::Path;
-mod readfortunefile;
+
+use fortuneomatic::visit_dirs;
 
 fn main() {
     let x = Path::new("fortuness");
-    readfortunefile::visit_dirs(x);
+    visit_dirs(x);
 }

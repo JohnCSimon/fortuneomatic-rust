@@ -58,9 +58,7 @@ pub fn visit_dirs(dir: &Path) -> std::vec::Vec<std::path::PathBuf> {
 
 #[cfg(test)]
 mod tests {
-
-    use crate::lib::*;
-
+    use super::*;
     #[test]
     fn parse_fortune_file_test() {
         let result = words_by_line("fortunes/animals");
